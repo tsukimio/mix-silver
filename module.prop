@@ -1,0 +1,9 @@
+id=mix-silver
+name=MiXplorer Silver System
+version=v1.0.0
+versionCode=100
+author=n3rd3x3
+description=Systemly install MiXplorer Silver as a system app
+support=https://github.com/tsukimio/mix-silver
+minMagisk=2400
+updateJson=https://tsukimio.github.io/mix-silver/update.json
