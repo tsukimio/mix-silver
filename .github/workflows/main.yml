@@ -5,8 +5,8 @@ on:
     branches:
     - main
     paths-ignore:
-      .github/workflows/main.yml
-      docs/*
+      - .github/workflows/main.yml
+      - docs/*
   workflow_dispatch:
 
 jobs:
